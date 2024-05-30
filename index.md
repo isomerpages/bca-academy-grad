@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: BCAA Graduation Ceremony
+      title: "BCA Academy Graduation "
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
@@ -20,6 +20,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      subtitle: Congratulations Graduates
   - infobar:
       title: Infobar title
       description: About a sentence worth of description here
