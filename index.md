@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: BCAA GRADUATION CEREMONY
+description: GRADUATION CEREMONY
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
