@@ -7,25 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "BCA Academy Graduation "
       background: /images/hero-banner.png
       url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-      subtitle: Congratulations Graduates
   - infobar:
-      title: Infobar title
-      description: About a sentence worth of description here
+      title: BCA ACADEMY G
+      description: About a sentence worthsdsasaddsa of description here
       button: Button text
       url: /faq/
+      subtitle: fdf
   - infopic:
       title: Infopic
       subtitle: Add an image and text
