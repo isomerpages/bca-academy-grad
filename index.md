@@ -15,7 +15,7 @@ sections:
       description: Congratulations to the Graduating Class of 2024. Click on the tabs
         below for more details.
       url: /faq/
-      title: 18 Nov 2024 @  NEXUS (BCA Braddell Campus)
+      title: Nov 18, 2024  at N:EXUS (BCA Braddell Campus)
   - textcards:
       title: .
       id: textcards
