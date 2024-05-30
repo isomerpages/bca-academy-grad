@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/hero-banner.png
       url: /contact-us/
+      variant: center
+      title: BCA ACADEMY GRADUATION
+      subtitle: 18 Nov 2024 at NEXUS (BCA Braddell Campus)
   - infobar:
       title: BCA ACADEMY G
       description: About a sentence worthsdsasaddsa of description here
