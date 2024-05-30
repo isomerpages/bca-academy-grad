@@ -7,12 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/photo_1557801200_9a8d901ded2a.jpg
       url: /contact-us/
       variant: center
       title: BCA ACADEMY GRADUATION
       subtitle: 18 Nov 2024 at NEXUS (BCA Braddell Campus)
-      button: tht
       key_highlights:
         - title: CEREMONY
           description: Key Highlight description
