@@ -12,10 +12,10 @@ sections:
       variant: center
       title: BCA ACADEMY GRADUATION
   - infobar:
-      description: Graduation Ceremony will be held on 18 Nov 2024 at NEXUS (BCA
-        Braddell Campus)
+      description: Congratulations to the Graduating Class of 2024. Click on the tabs
+        below for more details.
       url: /faq/
-      title: Congratulations to the Graduating Class
+      title: 18 Nov 2024 @  NEXUS (BCA Braddell Campus)
   - textcards:
       title: .
       id: textcards
