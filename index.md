@@ -13,8 +13,15 @@ sections:
       title: BCA ACADEMY GRADUATION
   - infobar:
       url: /faq/
-      title: "Graduation Ceremony will be on 18 Nov 2024 "
+      title: Graduation Ceremony will be on 18 Nov 2024
       subtitle: Congratulations GRADUATES!!
+  - infopic:
+      title: Graduation Ceremony will be on 18 Nov 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: "venue: NEXUS (BCA Braddell Campus)"
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: "venue: NEXUS (BCA Braddell Campus)"
       id: textcards
