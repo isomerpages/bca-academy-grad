@@ -16,7 +16,7 @@ sections:
       title: Graduation Ceremony will be on 18 Nov 2024
       subtitle: Congratulations GRADUATES!!
   - infopic:
-      title: Graduation Ceremony will be on 18 Nov 2024
+      title: Graduation Ceremony will be held on Mon,18Nov2024
       subtitle: Add an image and text
       id: infopic
       description: "venue: NEXUS (BCA Braddell Campus)"
