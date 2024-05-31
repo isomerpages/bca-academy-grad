@@ -121,5 +121,7 @@ description: ""
 </div>
 <hr>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/banner_new_1a.jpg">
+</div>
 <p></p>
