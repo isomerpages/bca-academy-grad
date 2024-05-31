@@ -279,15 +279,39 @@ vendor. All purchases are voluntary.&nbsp;</p>
 </blockquote>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary>REGISTRATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Upon arrival, all guests, accompanied by the respective graduands, are
+to proceed to NEXUS (Blk D Level 7) between 12.30 to 1.30 pm.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Upon registration, every guest will be given a guest admission ticket.</p>
+</li>
+<li>
+<p>Misplaced admission tickets WILL NOT be replaced nor re-issued. Admission
+tickets are non-transferrable.&nbsp;</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>ADMISSION TO HALL</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Admission to the Hall will be strictly controlled and permitted only with
+valid guest admission tickets. One admission ticket admits one guest only.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Guests are to be seated within the designated sections and marshals will
+be on site for guidance. Guests are not permitted to enter the seating
+rows/sections for graduands.&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Guests must remain seated throughout the Graduation Ceremony, and refrain
+from standing up to avoid obstructing other audience and the proceedings.&nbsp;&nbsp;</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
