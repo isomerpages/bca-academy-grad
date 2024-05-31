@@ -104,12 +104,16 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<hr>
+<p></p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/vm1.png">
 </div>
+<hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/banner_new_1b.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
