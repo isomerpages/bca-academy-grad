@@ -108,6 +108,11 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/n55.png">
+</div>
+<hr>
+<p></p>
 <p></p>
 <blockquote>
 <h4><strong>BEFORE GRADUATION DAY</strong></h4>
@@ -189,6 +194,9 @@ us by replying to the invitation email.&nbsp;</p>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
 <p></p>
 <blockquote>
 <h4><strong>ON GRADUATION DAY</strong></h4>
@@ -283,6 +291,9 @@ vendor. All purchases are voluntary.&nbsp;</p>
 </details>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
 <blockquote>
 <h4><strong>GUESTS INFO</strong></h4>
 </blockquote>
@@ -326,21 +337,13 @@ from standing up to avoid obstructing other audience and the proceedings.&nbsp;&
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/faqq.png">
-</div><pre><code>click above for faq + if u have a question not in the FAQ, contact 
-[diploma]&nbsp; BCA_graduation_dip@bca.gov.sg
-[specialist diploma]&nbsp; BCA_graduation_sdip@bca.gov.sg</code></pre>
+</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BCAA.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
