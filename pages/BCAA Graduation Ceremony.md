@@ -325,11 +325,19 @@ from standing up to avoid obstructing other audience and the proceedings.&nbsp;&
 </details>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/faqq.png">
+</div><pre><code>click above for faq + if u have a question not in the FAQ, contact 
+[diploma]&nbsp; BCA_graduation_dip@bca.gov.sg
+[specialist diploma]&nbsp; BCA_graduation_sdip@bca.gov.sg</code></pre>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BCAA.png">
 </div>
