@@ -19,25 +19,5 @@ sections:
       alt: Image alt text
       image: /images/jump.png
       url: /gc/
-      button: Click here
-  - textcards:
-      title: click below for details
-      id: textcards
-      cards:
-        - title: GRADUATION CEREMONY
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: CONGRATULATORY MESSAGES
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: GRADUANDS + GUESTS INFO
-          description: ""
-          linktext: Learn more
-          url: ""
-        - title: FAQ
-          description: ""
-          linktext: Learn more
-          url: ""
+      button: "ENTER "
 ---
