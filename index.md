@@ -18,6 +18,8 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/jump.png
+      url: /gc/
+      button: Click here
   - textcards:
       title: click below for details
       id: textcards
