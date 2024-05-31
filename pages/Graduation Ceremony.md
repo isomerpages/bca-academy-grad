@@ -51,7 +51,7 @@ description: ""
 </div>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/vm.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/vm.png">
 </div>
 <hr>
 <p></p>
@@ -65,13 +65,13 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+<iframe height="220" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
 </div>
 <p>AR Leong-Kok Su-Ming (Managing Dir, BCAA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+<iframe height="220" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
 </div>
 <p>May Siu (Dir, Sch of Academic &amp; Continuing Edu)</p>
 </td>
@@ -95,33 +95,22 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
-</div>
 <p>AR Leong-Kok Su-Ming (Managing Dir, BCAA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="iframe-wrapper">
-<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
-</div>
 <p>May Siu (Dir, Sch of Academic &amp; Continuing Edu)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
-</div>
+<hr>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/vm1.png">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/vm1.png">
 </div>
-<hr>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/banner_new_1a.jpg">
-</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
