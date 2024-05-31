@@ -346,4 +346,13 @@ from standing up to avoid obstructing other audience and the proceedings.&nbsp;&
 <p></p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/124de3d1b5e12f1d8fcec1685e634361.gif">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BCAA_log.png">
+</div>
+<p></p>
 <p></p>
