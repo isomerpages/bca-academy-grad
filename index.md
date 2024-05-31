@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/grad1.png
+      background: /images/grad1a.png
       url: /contact-us/
       variant: center
       title: BCA ACADEMY GRADUATION
