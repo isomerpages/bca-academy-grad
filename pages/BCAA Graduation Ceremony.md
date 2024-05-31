@@ -47,6 +47,10 @@ description: ""
 <h4>Graduands and guests are advised to take public transport on the event day due to limited parking spaces at BCA Braddell Campus. Refer to <a href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy" rel="noopener noreferrer nofollow" target="_blank">link</a> on getting to the campus.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/dce___post_on_25_aug_202137f8fdfd8a9b4684bfe51fac862bb92f.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <p></p>
