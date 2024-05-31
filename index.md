@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/denis_sebastian_tamas_HJ7vZTlpmog_unsplash.jpg
+      background: /images/grad1a.png
       url: /contact-us/
       variant: center
       title: BCA ACADEMY GRADUATION
