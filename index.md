@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/grad1a.png
+      background: /images/denis_sebastian_tamas_HJ7vZTlpmog_unsplash.jpg
       url: /contact-us/
       variant: center
       title: BCA ACADEMY GRADUATION
@@ -19,19 +19,23 @@ sections:
       alt: Image alt text
       image: /images/jump.png
   - textcards:
-      title: click below for more info
+      title: click below for details
       id: textcards
       cards:
-        - title: MESSAGES
-          description: Card description
+        - title: GRADUATION CEREMONY
+          description: ""
           linktext: Learn more
           url: ""
-        - title: GRADUANDS
-          description: Card description
+        - title: CONGRATULATORY MESSAGES
+          description: ""
           linktext: Learn more
           url: ""
-        - title: GUESTS
-          description: Card description
+        - title: GRADUANDS + GUESTS INFO
+          description: ""
+          linktext: Learn more
+          url: ""
+        - title: FAQ
+          description: ""
           linktext: Learn more
           url: ""
 ---
