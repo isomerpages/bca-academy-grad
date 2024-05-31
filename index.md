@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/grad1a.png
-      url: /contact-us/
+      url: /gc/
       variant: center
       title: BCA ACADEMY GRADUATION
       subtitle: CONGRATULATION GRADUATES!!!
