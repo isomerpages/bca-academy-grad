@@ -50,11 +50,7 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_07_10_145634.png">
 </div>
 <hr>
-<div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/vm.png">
-</div>
-<hr>
-<p></p>
+<h4><strong>VIDEO MESSAGES</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -65,13 +61,13 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="220" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+<iframe height="200" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
 </div>
 <p>AR Leong-Kok Su-Ming (Managing Dir, BCAA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="220" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+<iframe height="200" width="350" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
 </div>
 <p>May Siu (Dir, Sch of Academic &amp; Continuing Edu)</p>
 </td>
@@ -89,8 +85,9 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/vm1.png">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
+<h4><strong>MESSAGES</strong></h4>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6P-cT-ausUjMnTGd37U3nOvmi4Cv4BpcP5-HArFCHr3tmKDehxoMH4ri3lgR_jmXcHHEh8AqjkjMp/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
