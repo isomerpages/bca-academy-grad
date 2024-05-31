@@ -19,5 +19,5 @@ sections:
       alt: Image alt text
       image: /images/jump.png
       url: /gc/
-      button: "ENTER "
+      button: ENTER GC WEBSITE
 ---
