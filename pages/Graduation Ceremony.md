@@ -115,3 +115,12 @@ description: ""
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6P-cT-ausUjMnTGd37U3nOvmi4Cv4BpcP5-HArFCHr3tmKDehxoMH4ri3lgR_jmXcHHEh8AqjkjMp/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cong.png">
+</div>
+<p></p>
