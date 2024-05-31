@@ -17,10 +17,9 @@ sections:
       alt: Image alt text
       image: /images/jump.png
       url: /gc/
-      description: |+
+      description: |-
         BCA Academy will be holding the Graduation Ceremony on
 
         Monday 18 Nov 2024 at BCA Braddell Campus
-
-      button: ENTER
+      button: ENTER GC2024
 ---
