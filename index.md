@@ -17,6 +17,7 @@ sections:
       subtitle: Graduation ceremony will be on
       id: infopic
       alt: Image alt text
+      image: /images/jump.png
   - textcards:
       title: click below for more info
       id: textcards
