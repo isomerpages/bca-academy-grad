@@ -344,6 +344,7 @@ from standing up to avoid obstructing other audience and the proceedings.&nbsp;&
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/faqq.png">
 </div>
 <p></p>
+<hr>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
