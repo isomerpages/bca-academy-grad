@@ -1,8 +1,8 @@
 title: BCAA GRADUATION CEREMONY
 url: https://bcaa.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/BCAA_log.png
 colors:
-  primary-color: "#ffffff"
+  primary-color: "#000000"
   secondary-color: "#b60000"
   media-colors:
     - title: media-color-one
