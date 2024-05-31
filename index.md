@@ -11,17 +11,14 @@ sections:
       url: /contact-us/
       variant: center
       title: BCA ACADEMY GRADUATION
-  - infobar:
-      url: /faq/
-      title: 18 Nov 2024 at NEXUS (BCA Braddell Campus)
-      subtitle: "Congratulations GRADUATES!! "
+      subtitle: CONGRATULATION GRADUATES!!!
   - infopic:
       title: 18 Nov 2024 at NEXUS (BCA Braddell Campus)
       subtitle: Graduation ceremony will be on
       id: infopic
       alt: Image alt text
   - textcards:
-      title: "@ NEXUS (BCA Braddell Campus)"
+      title: click below for more info
       id: textcards
       cards:
         - title: MESSAGES
@@ -36,5 +33,4 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
-      description: click on tabs below for more info
 ---
