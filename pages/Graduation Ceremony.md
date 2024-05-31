@@ -50,7 +50,74 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_07_10_145634.png">
 </div>
 <p></p>
+<p><strong>click [+] to view videos</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>BCAA Management [+]</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>AR Leong-Kok Su-Ming (Managing Dir, BCAA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>May Siu (Dir, Sch of Academic &amp; Continuing Edu)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
 <h4><strong>BCAA Management</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>AR Leong-Kok Su-Ming (Managing Dir, BCAA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="220" width="460" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=n6MmhVBG6yWMbt76"></iframe>
+</div>
+<p>May Siu (Dir, Sch of Academic &amp; Continuing Edu)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>BCAA Lecturers</strong></h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
