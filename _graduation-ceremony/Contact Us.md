@@ -4,8 +4,8 @@ permalink: /contact-us/
 variant: tiptap
 description: ""
 ---
-<h3>GRADUATION QUESTIONS?</h3>
-<p>Refer to the FAQs or you may reach out to us via</p>
+<h3></h3>
+<h4>You may reach out to us below for any graduation queries ...</h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -35,4 +35,12 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/faqq.png">
+</div>
 <p></p>
