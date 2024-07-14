@@ -26,10 +26,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/share.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/conngg1.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://padlet.com/bcaabuzz/congratulations-messages-dshww85iu4yuoowf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/conngg1.png"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fill.png">
