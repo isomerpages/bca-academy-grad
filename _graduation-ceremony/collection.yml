@@ -2,5 +2,5 @@ collections:
   graduation-ceremony:
     output: true
     order:
-      - GC2024.md
+      - BCAA Graduation Ceremony 2024.md
       - Congratulatory Messages.md
