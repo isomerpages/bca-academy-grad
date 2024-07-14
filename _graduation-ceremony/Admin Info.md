@@ -129,4 +129,33 @@ description: ""
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<p></p>
+<blockquote>
+<h4><strong>GUESTS INFO</strong></h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>REGISTRATION</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>All guests are to be accompanied by the respective graduands, and to proceed to NEXUS (Blk D, level 7) between 12.30 to 1.30 pm.&nbsp;</h4>
+<h4>- Upon registration, every guest will be given a guest admission ticket.<br>- Misplaced admission tickets will NOT be replaced nor re-issued. <br>- Admission tickets are non-transferrable.&nbsp;</h4>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ADMISSION TO HALL</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Admission to the Hall will be strictly controlled and permitted only with valid guest admission tickets. <br><br>- One admission ticket admits one guest only.&nbsp;<br>- Guests are to be seated within the designated sections and marshals will be on site for guidance. <br>- Guests are not permitted to enter the seating rows/sections for graduands.&nbsp;&nbsp;<br>- Guests must remain seated throughout the Graduation Ceremony, and refrain from standing up to avoid obstructing other audience and the proceedings.&nbsp;&nbsp;</h4>
+</div>
+</details>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<blockquote>
+<h4></h4>
+</blockquote>
 <p></p>
