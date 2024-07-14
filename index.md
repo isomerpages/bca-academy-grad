@@ -14,7 +14,7 @@ sections:
       title: Congratulations Graduands
       id: infopic
       alt: Image alt text
-      image: /images/jump.png
+      image: /images/hp_education_programmes.png
       url: /gc/
       button: Graduation Ceremony 2024
       subtitle: BCAA Graduation ceremony
