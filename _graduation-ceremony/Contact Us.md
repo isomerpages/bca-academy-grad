@@ -36,10 +36,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/faqq.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/FAQ"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/faqq.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
