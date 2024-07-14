@@ -2,8 +2,8 @@ collections:
   graduation-ceremony:
     output: true
     order:
-      - Contact Us.md
       - BCAA Graduation Ceremony 2024.md
       - Congratulatory Messages.md
       - Green Pledge.md
       - Admin Info.md
+      - Contact Us.md
