@@ -49,6 +49,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/grad1a.png">
+</div>
+<p></p>
 <blockquote>
 <h4><strong>ON GRADUATION DAY</strong></h4>
 </blockquote>
@@ -154,6 +158,6 @@ description: ""
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grad1a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gc2024.png">
 </div>
 <p></p>
