@@ -16,7 +16,11 @@ to this milestone. Each certificate awarded represents not just academic
 achievement, but a testament to the commitment and passion that our students
 have demonstrated throughout their journey. It is a time to recognise and
 applaud their accomplishments.</p>
-<p></p>
+<p><strong>Ingniting Dreams</strong>
+<br>"Igniting Dreams" symbolises the beginning of a new chapter, where our
+graduands embark on paths filled with limitless possibilities. It signifies
+our commitment to nurturing aspirations and empowering our graduates to
+pursue their dreams with courage and determination.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
