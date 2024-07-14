@@ -4,3 +4,129 @@ permalink: /admin-info/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grad1a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aii.png">
+</div>
+<p></p>
+<blockquote>
+<h4><strong>BEFORE GRADUATION DAY</strong></h4>
+</blockquote>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>REGISTRATION OF ATTENDANCE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Graduands will be receiving an invitation to the Graduation Ceremony via email.<br><br>Graduands are to complete the Graduation Survey and register their attendance for the Graduation Ceremony. If a graduand fails to respond by the stipulated deadline, it will be assumed that he/she will not be attending the ceremony and no arrangement will be made for his/her attendance at the Graduation Ceremony.&nbsp;&nbsp;<br><br>Graduands must settle any outstanding loan of BCAA property (e.g. library books or library fines) and fees with the Academy before they can attend the Graduation Ceremony or collect their certificates.&nbsp;</h4>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>GOWN COLLECTION</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Official gown vendor: Joyous Group Holdings.&nbsp;<br><br>Gown collection period is as follows:&nbsp;<br><strong>Date&nbsp;3 to 5 November (Friday to Sunday)&nbsp;</strong><br><strong>Time&nbsp;9:30 am to 5:00 pm</strong><br><strong>Venue&nbsp;Student Lounge (BCA Braddell Campus, Blk F, Level 1)&nbsp;</strong></h4>
+<p></p>
+<h4>Collect your graduation gown on the date and time you have indicated in your online registration.&nbsp;</h4>
+<h4>A rental fee of S$30.00 will be charged by Joyous Group Holdings. Graduands are to make payment directly to the vendor upon collection of gowns. Payment can only be made by cheque, cash or PayNow.&nbsp;&nbsp;</h4>
+<h4>An additional S$80.00 will be collected by the gown vendor as deposit for the graduation gown and hood. This amount will be refunded upon prompt return of graduation gown and hood (in good condition) to the vendor.&nbsp;&nbsp;</h4>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ADMISSION TICKETS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Every graduand will be given one complimentary guest admission ticket. Additional tickets will be charged at S$40.00 (incl. GST) per ticket, subject to availability. The number of additional guest admission tickets available for purchase will be determined after collating all registrations from the graduating cohort. Registration for additional guest tickets will be done separately, via Joyous Group Holdings portal, and on a first-come-first-serve basis. Payment must be made by cheque, cash or PayNow directly to the gown vendor.&nbsp;</h4>
+<h4>Guests without valid admission ticket will not be allowed entry to witness the ceremony proceedings. Misplaced admission tickets WILL NOT be replaced nor re-issued.&nbsp;</h4>
+<h4>Due to the nature of the event, it is recommended for guests to be at least 7 years of age.&nbsp;</h4>
+<h4>Graduands who require accessible seating for their guest are to inform us by replying to the invitation email.&nbsp;</h4>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<blockquote>
+<h4><strong>ON GRADUATION DAY</strong></h4>
+</blockquote>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>REGISTRATION</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Things to bring for the Graduation Ceremony:&nbsp;&nbsp;</h4>
+<h4>a) Graduation gown and hood</h4>
+<h4>b) Identification card or any other form of photographed identification&nbsp;</h4>
+<h4>c) Registration confirmation email with QR code in your mobile phone<br>(This email will only be sent the week before the Graduation Day and you are not required to print the email and QR code.)&nbsp;</h4>
+<p></p>
+<h4>Upon arrival, graduands are to register at Nexus (Blk D Level 7) between 12.30 to 1.30 pm. <br><strong>Please be punctual as LATECOMERS WILL NOT BE ALLOWED ON STAGE.&nbsp;</strong></h4>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ATTIRE</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>All graduands are required to put on the graduation gown and hood when attending the Graduation Ceremony. Graduands who are inappropriately attired will not be allowed on stage.&nbsp;&nbsp;<br><br>The recommended dress code is as follows:&nbsp;</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ladies</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Light coloured long sleeve collared shirt or blouse.</p>
+<p>Dark coloured skirt or pants.</p>
+<p>Dark coloured shoes.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gentlemen</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Light coloured long sleeve collared shirt with a tie.</strong>
+</p>
+<p><strong>Dark coloured long pants.</strong>
+</p>
+<p><strong>Dark coloured shoes.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>&nbsp;Traditional costumes are permitted.<br>*Note: slippers and sandals not permitted on stage.<br><br>The gown vendor will be on-site to assist graduands with their gowns and hoods on that day.&nbsp;</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>ORDER OF PROCEEDINGS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Upon the cue from marshals, graduands are to quietly leave their seats row by row to queue for stage presentation.&nbsp;<br><br>Verify your name with the marshal in the queue. <br>When your name is announced, walk briskly across the stage, receive the scroll &amp; face the photographers to have your photograph taken. <br>Proceed to walk to the other side of the stage. <br><br>There will be marshals to guide you back to your seat in the Hall.</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>COLLECTION OF CERTIFICATES</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>To ensure that all certificates are correctly issued, the scroll received by graduands on stage WILL NOT contain any document.&nbsp;<br><br>Graduands will collect their certificates after exiting from the stage, at the back of the Hall. Graduands are to return to their seats after collecting the certificate and remain seated for the rest of the ceremony.&nbsp;</h4>
+<h4>Diploma graduands will be receiving only their Diploma certificate during the session, additional certificates (if eligible) will be sent via email</h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>PHOTOGRAPHY</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Each graduand will have two photograph shots taken on stage &nbsp;</h4>
+<h4>a) A full length view – portrait orientation <br>b) A close-up frontal shot of the graduand receiving his/her scroll – half body, landscape orientation&nbsp;<br><br>Graduands may place their orders for copies of the photographs with the official photographer, Joyous Group Holdings. The official photographer will be setting up an on-site mobile studio to provide photography services for graduands and families. Due to the large number of graduands at the venue, prior arrangement with the photographer for the family portraits is recommended. <br><br><strong><em>Graduands are under no obligation to purchase from the vendor. All purchases are voluntary.&nbsp;</em></strong></h4>
+</div>
+</details>
+</div>
+<p></p>
