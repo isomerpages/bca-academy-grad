@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/grad1a.png
+      background: /images/Firefly_graduating_ceremony_in_singapore_21542.jpg
       url: /gc/
       variant: center
       title: BCA ACADEMY GRADUATION
