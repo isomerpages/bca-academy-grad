@@ -25,6 +25,6 @@ pursue their dreams with courage and determination.</p>
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Screenshot_2023_06_28_123655.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Screenshot_2023_06_28_123655.png">
 </div>
 <p></p>
