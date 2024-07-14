@@ -2,5 +2,5 @@ collections:
   graduation-ceremony:
     output: true
     order:
-      - Congratulatory Messages.md
       - GC2024.md
+      - Congratulatory Messages.md
