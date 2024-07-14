@@ -6,9 +6,6 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grad1a.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aii.png">
 </div>
 <p></p>
@@ -153,9 +150,10 @@ description: ""
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<blockquote>
-<h4></h4>
-</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/grad1a.png">
+</div>
 <p></p>
