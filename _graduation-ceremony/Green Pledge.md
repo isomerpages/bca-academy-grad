@@ -15,8 +15,5 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gc2222abc.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://padlet.com/bcaabuzz/green-pledge-nq6blfchnzp3ncci"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/gc2222abc.png"></a>
 <p></p>
