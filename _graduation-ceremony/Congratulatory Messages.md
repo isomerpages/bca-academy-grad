@@ -13,9 +13,6 @@ description: ""
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wjWDArqwm40?si=_mud7apCrUvldpsg"></iframe>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="509" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRAFh5myH8lQfBfK3umJQl733Z1ypaQFsa4XZcdrqMOnoyaTF-1fn-f0SEuVHZ1VQ8TwEA11R1h-EB/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <h4><strong>MESSAGES</strong></h4>
 <p></p>
