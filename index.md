@@ -12,12 +12,11 @@ sections:
       variant: center
       title: BCA ACADEMY GRADUATION
   - infopic:
-      title: CONGRATULATION GRADUATES!!!
+      title: Congratulations Graduands
       id: infopic
       alt: Image alt text
       image: /images/jump.png
       url: /gc/
-      description: BCA Academy will be holding the Graduation Ceremony on Monday 18
-        Nov 2024 at BCA Braddell Campus
-      button: ENTER GC2024
+      button: Graduation Ceremony 2024
+      subtitle: BCAA Graduation ceremony
 ---
