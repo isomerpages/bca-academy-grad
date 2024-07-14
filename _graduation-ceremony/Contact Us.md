@@ -36,11 +36,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p>or refer to the FAQs</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/fill.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/faqq.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/faqq.png">
 </div>
 <p></p>
