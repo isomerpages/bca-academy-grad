@@ -1,4 +1,5 @@
 collections:
   graduation-ceremony:
     output: true
-    order: []
+    order:
+      - GC2024.md
