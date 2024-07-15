@@ -7,6 +7,9 @@ description: ""
 <h3></h3>
 <h4>Feel free to contact us on any graduation queries ...</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 2%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,28 +19,29 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>DIPLOMA</h4>
+<p>DIPLOMA</p>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a></h4>
+<p>BCA_graduation_dip@bca.gov.sg</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>SPECIALIST DIPLOMA</h4>
+<p><strong>SPECIALIST DIPLOMA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a></h4>
+<p><strong>BCA_graduation_sdip@bca.gov.sg</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<p></p><a class="isomer-image-wrapper" href="/FAQ"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/faqq.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/gcfaq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/faq.png"></a>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <p></p>
