@@ -64,9 +64,16 @@ the graduating cohort. Registration for additional guest tickets will be
 done separately, via Joyous Group Holdings portal, and on a first-come-first-serve
 basis. Payment must be made by cheque, cash or PayNow directly to the gown
 vendor.&nbsp;</p>
-<h4>Guests without valid admission ticket will not be allowed entry to witness the ceremony proceedings. Misplaced admission tickets WILL NOT be replaced nor re-issued.&nbsp;</h4>
-<h4>Due to the nature of the event, it is recommended for guests to be at least 7 years of age.&nbsp;</h4>
-<h4>Graduands who require accessible seating for their guest are to inform us by replying to the invitation email.&nbsp;</h4>
+<p></p>
+<p>Guests without valid admission ticket will not be allowed entry to witness
+the ceremony proceedings. Misplaced admission tickets WILL NOT be replaced
+nor re-issued.&nbsp;</p>
+<p></p>
+<p>Due to the nature of the event, it is recommended for guests to be at
+least 7 years of age.&nbsp;</p>
+<p></p>
+<p>Graduands who require accessible seating for their guest are to inform
+us by replying to the invitation email.&nbsp;</p>
 <p></p>
 </div>
 </details>
