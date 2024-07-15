@@ -228,7 +228,44 @@ from standing up to avoid obstructing other audience and the proceedings.&nbsp;&
 </details>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <p></p>
+<h3><strong>BCAA's Graduation Ceremony will be held on</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date</p>
+</td>
+<th rowspan="1" colspan="1">
+<h4>MON, 18 NOVEMBER 2024</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<h4>2pm</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<h4>NEXUS (BCA Braddell Campus, Blk D, level 7)</h4>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.bcaa.edu.sg/you-are/a-visitor/getting-to-bca-academy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/map.png"></a>
 <p></p>
