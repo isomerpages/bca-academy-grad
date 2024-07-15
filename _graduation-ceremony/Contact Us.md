@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/gc2024.png">
+</div>
 <h4>Feel free to contact us on any graduation queries ...</h4>
 <p></p>
 <div class="isomer-image-wrapper">
