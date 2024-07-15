@@ -56,7 +56,14 @@ return of graduation gown and hood (in good condition) to the vendor.&nbsp;&nbsp
 <details class="isomer-details">
 <summary>ADMISSION TICKETS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Every graduand will be given one complimentary guest admission ticket. Additional tickets will be charged at S$40.00 (incl. GST) per ticket, subject to availability. The number of additional guest admission tickets available for purchase will be determined after collating all registrations from the graduating cohort. Registration for additional guest tickets will be done separately, via Joyous Group Holdings portal, and on a first-come-first-serve basis. Payment must be made by cheque, cash or PayNow directly to the gown vendor.&nbsp;</h4>
+<p>Every graduand will be given one complimentary guest admission ticket.
+Additional tickets will be charged at S$40.00 (incl. GST) per ticket, subject
+to availability. The number of additional guest admission tickets available
+for purchase will be determined after collating all registrations from
+the graduating cohort. Registration for additional guest tickets will be
+done separately, via Joyous Group Holdings portal, and on a first-come-first-serve
+basis. Payment must be made by cheque, cash or PayNow directly to the gown
+vendor.&nbsp;</p>
 <h4>Guests without valid admission ticket will not be allowed entry to witness the ceremony proceedings. Misplaced admission tickets WILL NOT be replaced nor re-issued.&nbsp;</h4>
 <h4>Due to the nature of the event, it is recommended for guests to be at least 7 years of age.&nbsp;</h4>
 <h4>Graduands who require accessible seating for their guest are to inform us by replying to the invitation email.&nbsp;</h4>
