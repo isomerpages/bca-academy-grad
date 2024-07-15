@@ -22,20 +22,18 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>DIPLOMA</p>
+<h4>DIPLOMA</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>BCA_graduation_dip@bca.gov.sg</p>
+<h4><a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a> </h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SPECIALIST DIPLOMA</strong>
-</p>
+<h4>SPECIALIST DIPLOMA</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BCA_graduation_sdip@bca.gov.sg</strong>
-</p>
+<h4><a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a> </h4>
 </td>
 </tr>
 </tbody>
