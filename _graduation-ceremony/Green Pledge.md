@@ -7,9 +7,13 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://padlet.com/bcaabuzz/green-pledge-nq6blfchnzp3ncci"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/greeen1.png"></a>
 <div class="isomer-image-wrapper">
-<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/g1.png">
+</div>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://padlet.com/bcaabuzz/green-pledge-nq6blfchnzp3ncci"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/g2.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/gp.png">
