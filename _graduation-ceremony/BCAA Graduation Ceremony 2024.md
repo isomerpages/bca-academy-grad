@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Firefly_graduating_ceremony_in_singapore_84577.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/thumbnail_image002.jpg">
 </div>
 <h1><strong>Celebrating Excellence</strong><br><strong>Igniting Dreams</strong></h1>
 <p></p>
