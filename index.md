@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Firefly_graduating_ceremony_in_singapore_21542.jpg
+      background: /images/Firefly_graduating_ceremony_in_singapore_84577.jpg
       url: /gc/
       variant: center
   - infopic:
