@@ -173,12 +173,16 @@ will not be allowed on stage.&nbsp;&nbsp;
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gentlemen</p>
+<p><strong>Gentlemen</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Light coloured long sleeve collared shirt with a tie.</p>
-<p>Dark coloured long pants.</p>
-<p>Dark coloured shoes.</p>
+<p><strong>Light coloured long sleeve collared shirt with a tie.</strong>
+</p>
+<p><strong>Dark coloured long pants.</strong>
+</p>
+<p><strong>Dark coloured shoes.</strong>
+</p>
 </td>
 </tr>
 </tbody>
