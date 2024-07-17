@@ -206,6 +206,7 @@ scroll &amp; face the photographers to have your photograph taken.
 <br>Proceed to walk to the other side of the stage.
 <br>
 <br>There will be marshals to guide you back to your seat in the Hall.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -217,8 +218,7 @@ by graduands on stage WILL NOT contain any document.&nbsp;
 <br>Graduands will collect their certificates after exiting from the stage,
 at the back of the Hall. Graduands are to return to their seats after collecting
 the certificate and remain seated for the rest of the ceremony.&nbsp;</p>
-<p>Diploma graduands will be receiving only their Diploma certificate during
-the session, additional certificates (if eligible) will be sent via email</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -247,7 +247,8 @@ are voluntary.&nbsp;</p>
 <summary>REGISTRATION</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All guests are to be accompanied by the respective graduands, and to proceed
-to NEXUS (Blk D, level 7) between 12.30 to 1.30 pm.&nbsp;</p>
+to NEXUS (Blk D, level 7)</p>
+<p>&nbsp;</p>
 <p>- Upon registration, every guest will be given a guest admission ticket.
 <br>- Misplaced admission tickets will NOT be replaced nor re-issued.
 <br>- Admission tickets are non-transferrable.&nbsp;</p>
