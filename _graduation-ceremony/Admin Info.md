@@ -68,7 +68,7 @@ Ceremony.&nbsp;&nbsp;
 <br>
 <br>Graduands must settle any outstanding loan of BCAA property (e.g. library
 books or library fines) and fees with the Academy before they can attend
-the Graduation Ceremony or collect their certificates.&nbsp;</p>
+the Graduation Ceremony or collect their certificates (where applicable)&nbsp;</p>
 <p></p>
 <p></p>
 </div>
@@ -80,9 +80,9 @@ the Graduation Ceremony or collect their certificates.&nbsp;</p>
 <p>Official gown vendor: Joyous Group Holdings.&nbsp;
 <br>
 <br>Gown collection period is as follows:&nbsp;
-<br>Date&nbsp;3 to 5 November (Friday to Sunday)&nbsp;
+<br>Date&nbsp;3 to 5 November
 <br>Time&nbsp;9:30 am to 5:00 pm
-<br>Venue&nbsp;Student Lounge (BCA Braddell Campus, Blk F, Level 1)&nbsp;</p>
+<br>Venue&nbsp;BCA Braddell Campus</p>
 <p></p>
 <p>Collect your graduation gown on the date and time you have indicated in
 your online registration.&nbsp;</p>
