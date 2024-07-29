@@ -18,4 +18,17 @@ sections:
       url: /gc2024/
       subtitle: BCAA Graduation ceremony
       description: Website under construction. Stay tuned for more details
+  - textcards:
+      title: Contact Us
+      id: textcards
+      description: Feel free to contact us on any graduation queries
+      cards:
+        - title: DIPLOMA
+          description: ""
+          linktext: BCA_graduation_dip@bca.gov.sg
+          url: ""
+        - title: SPECIALIST DIPLOMA
+          description: ""
+          linktext: BCA_graduation_sdip@bca.gov.sg
+          url: ""
 ---
