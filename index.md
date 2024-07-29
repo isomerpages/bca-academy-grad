@@ -17,5 +17,5 @@ sections:
       image: /images/bgggg.png
       url: /gc2024/
       subtitle: BCAA Graduation ceremony
-      description: Graduation Ceremony 2024
+      description: Website under construction. Stay tuned for more details
 ---
