@@ -16,6 +16,6 @@ sections:
       alt: Image alt text
       image: /images/bgggg.png
       url: /gc2024/
-      button: Graduation Ceremony 2024
       subtitle: BCAA Graduation ceremony
+      description: Graduation Ceremony 2024
 ---
