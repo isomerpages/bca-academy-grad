@@ -17,7 +17,7 @@ sections:
       image: /images/bgggg.png
       url: /gc2024/
       subtitle: BCAA Graduation ceremony
-      description: Website under construction. Stay tuned for more details
+      button: ENTER GC2024
   - textcards:
       title: Contact Us
       id: textcards
