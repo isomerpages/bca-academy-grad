@@ -17,7 +17,7 @@ sections:
       image: /images/bgggg.png
       url: /gc2024/
       subtitle: BCAA Graduation ceremony
-      button: ENTER GC2024
+      description: Webiste comin soon. Stay tunes
   - textcards:
       title: Contact Us
       id: textcards
