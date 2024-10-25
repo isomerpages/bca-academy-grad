@@ -2,6 +2,7 @@ collections:
   graduation-ceremony:
     output: true
     order:
+      - Adsad/.keep
       - BCAA Graduation Ceremony 2024.md
       - Congratulatory Messages.md
       - Green Pledge.md
