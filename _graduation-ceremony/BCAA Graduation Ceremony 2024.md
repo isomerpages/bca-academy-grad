@@ -10,7 +10,7 @@ description: ""
 <h1><strong>Celebrating Excellence</strong><br><strong>Igniting Dreams</strong></h1>
 <p></p>
 <p><strong>Celebrating Excellence</strong>
-<br>At the hearts of our ceremony lies a celebration of excellence. We commemorate
+<br>At the heart of our ceremony lies a celebration of excellence. We commemorate
 the dedication, hard work and perseverance that have led our graduands
 to this milestone. Each certificate awarded represents not just academic
 achievement, but a testament to the commitment and passion that our students
