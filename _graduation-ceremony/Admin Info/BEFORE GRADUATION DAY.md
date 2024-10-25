@@ -19,34 +19,30 @@ and no arrangement will be made for his/her attendance at the Graduation
 Ceremony.</p>
 </li>
 <li>
-<p>&nbsp;Graduands must settle any outstanding loan of BCAA property (e.g.
-library books or library fines) and fees with the Academy before they can
-attend the Graduation Ceremony or collect their certificates (where applicable).</p>
+<p>Graduands must settle any outstanding loan of BCAA property (e.g. library
+books or library fines) and fees with the Academy before they can attend
+the Graduation Ceremony or collect their certificates (where applicable).</p>
 </li>
 </ul>
 <p>&nbsp;</p>
 <h3><strong>Collection of Gown</strong></h3>
 <p>Official gown vendor: Joyous Group Holdings.&nbsp;
 <br>
-<br>Gown collection period is as follows:&nbsp;
-<br>Date&nbsp;1 to 4 November 2024
-<br>Time&nbsp;10:00 am to 5:00 pm
-<br>Venue&nbsp;BCA Braddell Campus, Blk F Level 1 (Student Lounge)</p>
+<br><strong>Gown collection period is as follows:&nbsp; <br>Date&nbsp;1 to 4 November 2024 <br>Time&nbsp;10:00 am to 5:00 pm <br>Venue&nbsp;BCA Braddell Campus, Blk F Level 1 (Student Lounge)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Collect your graduation gown on the date and time you have indicated in
 your online registration.&nbsp;</p>
 </li>
 <li>
-<p>A rental fee of S$30.00 will be charged by <a rel="noopener noreferrer nofollow" target="_blank">Joyous Group Holdings</a>.
-Graduands are to make payment directly to the vendor upon collection of
-gowns. Payment can only be made by cash or PayNow or WeChat Pay. An additional
-charge will be levied on credit card payment.</p>
-</li>
-<li>
-<p>An additional S$80.00 will be collected by the gown vendor as deposit
-for the graduation gown and hood. This amount will be refunded upon prompt
-return of graduation gown and hood (in good condition) to the vendor.</p>
+<p>A rental fee of S$30.00 will be charged by Joyous Group Holdings. Graduands
+are to make payment directly to the vendor upon collection of gowns. Payment
+can only be made by cash or PayNow or WeChat Pay. An additional charge
+will be levied on credit card payment. An additional S$80.00 will be collected
+by the gown vendor as deposit for the graduation gown and hood. This amount
+will be refunded upon prompt return of graduation gown and hood (in good
+condition) to the vendor.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
