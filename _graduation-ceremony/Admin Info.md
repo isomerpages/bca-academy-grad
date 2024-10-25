@@ -17,16 +17,8 @@ description: ""
 <p>Date</p>
 </td>
 <th rowspan="1" colspan="1">
-<h4>NOVEMBER 2024 [TBC}</h4>
+<h4>19 NOVEMBER 2024</h4>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<h4>2pm</h4>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
