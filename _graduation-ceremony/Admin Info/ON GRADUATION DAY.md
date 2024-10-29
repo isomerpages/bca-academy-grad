@@ -14,7 +14,7 @@ third_nav_title: Admin Info
 <p>Graduation gown and hood</p>
 </li>
 <li>
-<p>dentification card or any other form of photographed identification</p>
+<p>Identification card or any other form of photographed identification</p>
 </li>
 <li>
 <p>Registration confirmation QR code from Joyous Group Holdings portal in
