@@ -13,7 +13,7 @@ description: ""
 <h4><strong>MESSAGES</strong></h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6P-cT-ausUjMnTGd37U3nOvmi4Cv4BpcP5-HArFCHr3tmKDehxoMH4ri3lgR_jmXcHHEh8AqjkjMp/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6P-cT-ausUjMnTGd37U3nOvmi4Cv4BpcP5-HArFCHr3tmKDehxoMH4ri3lgR_jmXcHHEh8AqjkjMp/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
