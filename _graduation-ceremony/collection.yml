@@ -2,7 +2,6 @@ collections:
   graduation-ceremony:
     output: true
     order:
-      - Ebooklet.md
       - BCAA Graduation Ceremony 2024.md
       - Congratulatory Messages.md
       - Green Pledge.md
@@ -12,3 +11,4 @@ collections:
       - Admin Info/BEFORE GRADUATION DAY.md
       - Admin Info/ON GRADUATION DAY.md
       - Admin Info/GUESTS' INFO.md
+      - Ebooklet.md
