@@ -2,6 +2,7 @@ collections:
   graduation-ceremony-2025:
     output: true
     order:
+      - Admin Info/ON GRADUATION DAY.md
       - Admin Info/GUESTS' INFO.md
       - Admin Info/.keep
       - Contact Us.md
