@@ -2,11 +2,11 @@ collections:
   graduation-ceremony-2025:
     output: true
     order:
+      - GC2025.md
+      - Congratulatory Messages.md
+      - Green Pledge.md
+      - Contact Us.md
+      - Admin Info/.keep
       - Admin Info/BEFORE GRADUATION DAY.md
       - Admin Info/ON GRADUATION DAY.md
       - Admin Info/GUESTS' INFO.md
-      - Admin Info/.keep
-      - Contact Us.md
-      - Green Pledge.md
-      - Congratulatory Messages.md
-      - GC2025.md
