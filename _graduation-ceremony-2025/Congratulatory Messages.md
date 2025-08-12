@@ -4,3 +4,33 @@ permalink: /congratulatory-messages/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2023_07_10_145634.png">
+</div>
+<p></p>
+<p></p>
+<h4><strong>MESSAGES</strong></h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6P-cT-ausUjMnTGd37U3nOvmi4Cv4BpcP5-HArFCHr3tmKDehxoMH4ri3lgR_jmXcHHEh8AqjkjMp/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/share.png">
+</div>
+<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://sites.google.com/view/gc24/home?authuser=3"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsdsda.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/fill.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/124de3d1b5e12f1d8fcec1685e634361.gif">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/n55.png">
+</div>
+<p></p>
