@@ -2,5 +2,6 @@ collections:
   graduation-ceremony-2025:
     output: true
     order:
+      - Green Pledge.md
       - Congratulatory Messages.md
       - GC2025.md
