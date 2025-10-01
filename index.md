@@ -15,7 +15,7 @@ sections:
       id: infopic
       alt: Image alt text
       image: /images/BCAAgrad2025.jpg
-      url: /gc2025/
+      url: /gc2024/
       subtitle: BCAA Graduation ceremony
       button: ENTER
   - textcards:
