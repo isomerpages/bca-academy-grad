@@ -24,7 +24,7 @@ description: ""
 <p>Date</p>
 </td>
 <th rowspan="1" colspan="1">
-<h4>19 NOVEMBER 2024</h4>
+<h4>15 NOVEMBER 2025</h4>
 </th>
 </tr>
 <tr>
