@@ -17,7 +17,7 @@ sections:
       image: /images/bgggg.png
       url: /gc2024/
       subtitle: BCAA Graduation ceremony
-      button: ENTER BCAA GC2024
+      button: ENTER
   - textcards:
       title: Contact Us
       id: textcards
