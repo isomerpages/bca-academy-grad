@@ -10,12 +10,28 @@ description: ""
 </div>
 <h1><strong>Integrated Work-Study Diploma Programmes</strong></h1>
 <p></p>
-<h4>The Built Environment (BE) sector has significantly transformed Singapore into today's cosmopolitan city. With emerging trends such as rapid digitalisation, increasing complexity and creativity in designing buildings and evolving human needs, the BE sector is undergoing significant growth and transformation towards an advanced, integrated and progressive industry.</h4>
-<h4>With the refreshed Built Environment (BE) Industry Transformation Map (ITM), exciting career opportunities await our youth in Built Environment- a resilient industry that is poised for growth in the years ahead. With this in mind, BCA Academy offers four Integrated Work-Study Diplomas (IWSD) to create a future-ready workforce.</h4>
+<p>The Built Environment (BE) sector has significantly transformed Singapore
+into today's cosmopolitan city. With emerging trends such as rapid digitalisation,
+increasing complexity and creativity in designing buildings and evolving
+human needs, the BE sector is undergoing significant growth and transformation
+towards an advanced, integrated and progressive industry.</p>
+<p>With the refreshed Built Environment (BE) Industry Transformation Map
+(ITM), exciting career opportunities await our youth in Built Environment-
+a resilient industry that is poised for growth in the years ahead. With
+this in mind, BCA Academy offers four Integrated Work-Study Diplomas (IWSD)
+to create a future-ready workforce.</p>
 <p></p>
-<h4><strong><u>IWSD Programmes:</u></strong></h4>
-<h4><strong>DIPLOMA IN DIGITAL ENGINEERING</strong></h4>
-<h4><strong>DIPLOMA IN CONSTRUCTION ENGINEERING</strong></h4>
+<p>IWSD Programmes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>DIPLOMA IN DIGITAL ENGINEERING</strong>
+</p>
+</li>
+<li>
+<p><strong>DIPLOMA IN CONSTRUCTION ENGINEERING</strong>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <hr>
@@ -44,9 +60,10 @@ approach.
 <br>
 <br><strong>3. Recognised professional qualifications<br></strong>Qualifications
 are well-recognised – your diploma is recognised for the registration of
-Resident Technical Officers (RTO)*.&nbsp; You will also obtain Certificate
-for Green Mark Accredited Professional (GMAP)^</p>
-<p>* for Diploma in Construction Engineering (Digital)
-<br>^ for Diploma in Digital and Sustainable Architecture and Diploma in Digital
-and Smart Facilities Management, upon meeting minimum requirement</p>
+Resident Technical Officers (RTO)*.&nbsp;
+<br>You will also obtain Certificate for Green Mark Accredited Professional
+(GMAP)^</p>
+<p>* <em>Diploma in Construction Engineering (Digital) </em>
+<br>^ <em>Diploma in Digital &amp; Sustainable Architecture and Diploma in Digital &amp; Smart Facilities Management (upon meeting minimum requirement)</em>
+</p>
 <p></p>
