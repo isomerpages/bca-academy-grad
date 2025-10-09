@@ -25,7 +25,7 @@ description: ""
 <h4>DIPLOMA</h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4><a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a> </h4>
+<h4><a href="mailto:BCA_graduation_dip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_dip@bca.gov.sg</a></h4>
 </th>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ description: ""
 <h4>SPECIALIST DIPLOMA</h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a> </h4>
+<h4><a href="mailto:BCA_graduation_sdip@bca.gov.sg" rel="noopener noreferrer nofollow" target="_blank">BCA_graduation_sdip@bca.gov.sg</a></h4>
 </td>
 </tr>
 </tbody>
@@ -41,7 +41,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/gcfaq"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/faq.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://bcaaedu-my.sharepoint.com/:f:/g/personal/sdild_bcaa_edu_sg/EoHrFgDvBeBCn8JNK2aJZ5sBAhC6w77ws7FuJhBC-2WhMA?e=qhjWrA"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/faq.png"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
