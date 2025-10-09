@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: BCAA GRADUATION CEREMONY
+title: BCA ACADEMY
 description: GRADUATION CEREMONY
 image: /images/isomer-logo.svg
 permalink: /
