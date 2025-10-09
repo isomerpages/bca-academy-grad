@@ -1,4 +1,5 @@
 collections:
   iwsd:
     output: true
-    order: []
+    order:
+      - IWSD.md
