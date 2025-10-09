@@ -1,0 +1,4 @@
+collections:
+  iwsd:
+    output: true
+    order: []
