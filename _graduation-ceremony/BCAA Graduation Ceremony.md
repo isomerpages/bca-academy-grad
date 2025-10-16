@@ -28,7 +28,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>NEXUS </h4>
+<h4>NEXUS</h4>
 <h4>BCA Braddell Campus, Blk D, level 7</h4>
 </blockquote>
 </td>
