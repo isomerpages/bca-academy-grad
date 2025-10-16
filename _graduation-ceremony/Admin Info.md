@@ -29,18 +29,29 @@ certificates (where applicable).</p>
 <p>&nbsp;</p>
 <p><strong>Collection of Gown</strong>
 </p>
-<p>Official Gown Vendor: Werkz Studio Pte Ltd.&nbsp;
-<br>
+<p><strong>Official Gown Vendor: Werkz Studio Pte Ltd.&nbsp; </strong>
+</p>
+<p>
 <br>Gown Collection Period is as follows:&nbsp;</p>
 <p><u>Date/ Time:</u>&nbsp;&nbsp;&nbsp;</p>
+<blockquote>
 <p>30, 31 October, 1 November and 11 November 2025, 11:00am to 7:00pm (subject
 to selection of preferred time slot)</p>
+</blockquote>
 <p><u>Venue:</u>
 </p>
+<blockquote>
 <p>Werkz Studio
 <br>(10 Ubi Crescent Ubi Techpark Lobby D #01-66 Singapore 408564)</p>
-<p>Date/ Time: &nbsp;15 November 2025, 11:00am to 1:30pm</p>
-<p>Venue:&nbsp;BCA Braddell Campus (Block E Level 1)</p>
+</blockquote>
+<p>Date/ Time: &nbsp;</p>
+<blockquote>
+<p>15 November 2025, 11:00am to 1:30pm</p>
+</blockquote>
+<p>Venue:&nbsp;</p>
+<blockquote>
+<p>BCA Braddell Campus (Block E Level 1)</p>
+</blockquote>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -110,16 +121,14 @@ the requirement in Werkz Studio portal.</p>
 <p>b) Identification card or any other form of photographed identification</p>
 <p>c) Attendance confirmation QR code from Werkz Studio portal in your mobile
 phone (You are not required to print the QR code.)</p>
-<p>Upon arrival, graduands are to register at Block E Level 1 between 12pm
-to 1.30 pm. Please be punctual as <strong>LATECOMERS WILL <u>NOT</u> BE ALLOWED ON STAGE</strong>.</p>
-<p>Graduands are to be seated according to assigned Seat No. at NEXUS (Block
-D Level 7) by 1.30pm.</p>
+<h4><sup>Upon arrival, graduands are to register at Block E Level 1 between 12pm to 1.30 pm. </sup><br><sup>Please be punctual as </sup><strong><sup>LATECOMERS WILL </sup><u><sup>NOT</sup></u><sup> BE ALLOWED ON STAGE</sup></strong><sup>.</sup><br><sup>Graduands are to be seated according to assigned Seat No. at </sup><strong><sup>NEXUS (Block D Level 7) by 1.30pm.</sup></strong></h4>
+<p></p>
 <p>&nbsp;<strong>ATTIRE</strong>
 </p>
 <p>&nbsp;All graduands are required to put on the graduation gown and hood
 when attending the Graduation Ceremony. Graduands who are inappropriately
-attired will not be allowed on stage.&nbsp;</p>
-<p>The recommended dress code is as follows:&nbsp;</p>
+attired will not be allowed on stage.&nbsp;The recommended dress code is
+as follows:&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -158,8 +167,9 @@ attired will not be allowed on stage.&nbsp;</p>
 </table>
 <p>&nbsp;Traditional costumes are permitted.
 <br>*Note: slippers and sandals are not permitted on stage.</p>
-<p>&nbsp;The gown vendor will be on-site to assist graduands with their gowns
-and hoods on that day.</p>
+<p>&nbsp;<strong>The gown vendor will be on-site to assist graduands with their gowns and hoods on that day.</strong>
+</p>
+<p></p>
 <p><strong>ORDER OF PROCEEDINGS</strong>
 </p>
 <p>Upon the cue from marshals, graduands are to quietly leave their seats
@@ -180,8 +190,10 @@ to guide you back to your seat in the Hall.</p>
 <p></p>
 <p><strong>COLLECTION OF CERTIFICATES</strong>
 </p>
+<blockquote>
 <p>To ensure that all certificates are correctly issued, the scroll received
-by graduands on stage WILL NOT contain any document.</p>
+by graduands on stage will <strong><u>NOT </u></strong>contain any document.</p>
+</blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p>Graduands will collect their certificates after exiting from the stage,
