@@ -2,7 +2,7 @@ collections:
   graduation-ceremony:
     output: true
     order:
-      - BCAA Graduation Ceremony 2025.md
+      - BCAA Graduation Ceremony.md
       - Congratulatory Messages.md
       - Contact Us.md
       - Ceremony.md
