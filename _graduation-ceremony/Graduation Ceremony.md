@@ -24,7 +24,11 @@ description: ""
 <p>Date</p>
 </td>
 <th rowspan="1" colspan="1">
-<h4>15 NOVEMBER 2025</h4>
+<h4>15 NOV2025</h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -32,7 +36,9 @@ description: ""
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>NEXUS (BCA Braddell Campus, Blk D, level 7)</h4>
+<h4>NEXUS </h4>
+<h4>BCA Braddell Campus, </h4>
+<h4>Blk D, level 7</h4>
 </td>
 </tr>
 </tbody>
