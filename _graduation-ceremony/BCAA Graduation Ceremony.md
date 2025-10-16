@@ -9,7 +9,9 @@ description: ""
 </div>
 <h1><strong>Building Dreams</strong><br><strong>Shaping Singapore</strong></h1>
 <p></p>
-<h4>This year’s ceremony carries special significance as it coincides with Singapore’s 60th year of independence. With the theme “Building Dreams, Shaping Singapore”, we celebrate our graduands’ personal journeys — their ambitions, hard work and commitment while recognising their role as future professionals shaping our nation’s Built Environment</h4>
+<h4>This year’s ceremony carries special significance as it coincides with Singapore’s 60th year of independence. </h4>
+<p></p>
+<h4>With the theme “Building Dreams, Shaping Singapore”, we celebrate our graduands’ personal journeys — their ambitions, hard work and commitment while recognising their role as future professionals shaping our nation’s Built Environment</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
