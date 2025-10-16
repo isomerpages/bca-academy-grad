@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - Graduands & Guests.md
       - Graduation Ceremony.md
       - GUESTS' INFO backup.md
       - ON GRADUATION DAY backup.md
