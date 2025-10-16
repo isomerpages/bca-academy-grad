@@ -2,6 +2,7 @@ collections:
   backup:
     output: true
     order:
+      - GUESTS' INFO backup.md
       - ON GRADUATION DAY backup.md
       - BEFORE GRADUATION DAY backup.md
       - Green Pledge.md
