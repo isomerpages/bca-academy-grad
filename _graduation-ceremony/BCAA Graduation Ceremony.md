@@ -14,23 +14,101 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/fill.png">
 </div>
-<h3><strong>BCAA Graduation Ceremony will be held on 15 November 2025</strong></h3>
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<blockquote>
+<h3><strong>15 Nov</strong></h3>
+</blockquote>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <blockquote>
-<h4>NEXUS</h4>
-<h4>BCA Braddell Campus, Blk D, level 7</h4>
+<p></p>
 </blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<blockquote>
+<p><u><sup>2025</sup></u>
+</p>
+</blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4><strong>NEXUS</strong></h4>
+</blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4><sup>BCA Braddell Campus</sup></h4>
+</blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4></h4>
+</blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<blockquote>
+<h4><sup>Blk D, level 7</sup></h4>
+</blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<blockquote>
+<p></p>
+</blockquote>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
